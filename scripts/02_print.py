@@ -54,8 +54,9 @@ print("Message1\nMessage2") # One new line between
 # \t - Tab
 print("Message1\tMessage2")
 
-# -----------------------------------------------
-# CHALLENGE TIME
+# ---------------------------------------
+# Python Challenge
+# ---------------------------------------
 # Recreate the following using ONLY ONE print() function:
 # Your learning Path:
 # 	 -Python Basics
