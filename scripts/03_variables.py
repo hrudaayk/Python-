@@ -11,7 +11,7 @@
 # Without Variables
 # ---------------------------------------
 # Here we print fixed text directly using print().
-print("My name is Baraa")
+print("My name is Hrudaay")
 print("Baraa is learning Python")
 print("Baraa wants to become Python expert")
 
@@ -20,7 +20,7 @@ print("Baraa wants to become Python expert")
 # Single Variable
 # ---------------------------------------
 # Store your name in a variable and reuse it in print().
-name = "Baraa"
+name = "Hrudaay"
 print("My name is", name)
 print(name, "is learning Python")
 print(name, "wants to become Python expert")
@@ -30,7 +30,7 @@ print(name, "wants to become Python expert")
 # Multiple Variables
 # ---------------------------------------
 # Now we’ll keep both your name and the language in variables.
-name     = "Baraa"
+name     = "Hrudaay"
 language = "python"
 print("My name is", name)
 print(name, "is learning", language)
