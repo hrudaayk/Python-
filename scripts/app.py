@@ -22,4 +22,7 @@ print(isinstance(Mobile, int))
 
 print("Hello".endswith("o"))
 
-print("I am making the first Commit")
+print("Hello".startswith("H"))
+
+
+
